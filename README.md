@@ -1,5 +1,6 @@
  
 # list-rendering-vfor
+List rendering using v-for function 
 
 ## Project setup
 ```
