@@ -1,5 +1,5 @@
  
-# list-rendering-vfor
+# List rendereing using li items and v-for
 List rendering using v-for function 
 
 ## Project setup
